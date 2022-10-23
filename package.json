@@ -1,0 +1,11 @@
+{
+  "name": "validate-fhir",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "validate-fhir": "node validate-fhir.js"
+  },
+  "devDependencies": {
+    "jsonschema": "^1.4.1"
+  }
+}
